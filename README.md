@@ -39,5 +39,5 @@
 Here is a sample preview of **ProLearn Connect** in action:
 
 ### Dashboard Screenshot
-![Dashboard Screenshot](path-to-dashboard-image.png)
+![Dashboard Screenshot](dashboard.jpeg)
 
