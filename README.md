@@ -25,23 +25,13 @@
 - Select courses based on specific learning needs.
 - Feedback mechanism to improve course offerings.
 
-### 5. Visual Learning
-- Sorting, graph, and tree visualizers to understand algorithms interactively.
-- Algorithm implementations for enhanced conceptual clarity.
 
 ## Technology Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Flask, Node.js, Express.js
-- **Database:** MongoDB, SQLite
-- **Design:** Figma for wireframes and mockups
-- **Tools:** Excel for data preparation
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Backend:** Flask
+- **Database:** Excel, SQLite
 
 ## Future Enhancements
 - Addition of more branches and courses.
 - Enhanced interactivity for the dashboard and visualizers.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/prolearn-connect.git
 
