@@ -41,3 +41,6 @@ Here is a sample preview of **ProLearn Connect** in action:
 ### Dashboard Screenshot
 ![Dashboard Screenshot](dashboard.jpeg)
 
+### Landing Page Screenshot
+![Landing Page Screenshot](landingpage.jpeg)
+
