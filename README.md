@@ -34,4 +34,10 @@
 ## Future Enhancements
 - Addition of more branches and courses.
 - Enhanced interactivity for the dashboard and visualizers.
+## Sample
+
+Here is a sample preview of **ProLearn Connect** in action:
+
+### Dashboard Screenshot
+![Dashboard Screenshot](path-to-dashboard-image.png)
 
